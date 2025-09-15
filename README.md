@@ -1,8 +1,5 @@
 # EXP.NO. :1 - Data Cleaning Process
 
-# Name: G ASWINI
-# Reg.no. : 212224040037
-
 # AIM :
 To read the given data and perform data cleaning and save the cleaned data to a file.
 
@@ -238,6 +235,24 @@ df1 = df[z<3]
 print(df1)
 ```
 <img width="166" height="251" alt="image" src="https://github.com/user-attachments/assets/662d67aa-2f30-4924-8684-61e366ca5a8b" />
+
+# SUMMERY:
+
+Use head, tail, describe, info to understand dataset structure.
+
+Apply isnull, notnull, sum to find missing values.
+
+Extract rows/columns using labels, indices, or conditions.
+
+Handle missing data by drop, fill, interpolate, or mean/median/mode imputation.
+
+Use value_counts to check category frequencies.
+
+Merge, join, or concatenate multiple datasets.
+
+Plot boxplot or scatterplot to visualize data distributions.
+
+Detect and remove outliers using IQR or Z-score methods.
 
 # RESULT :
 Thus the given data has been read, cleaned and the data has been saved to a file.
